@@ -11,6 +11,6 @@ public class HelloWorld {
       public static void main(String args[])
       {
           System.out.println("GitHub test project edited.");
-          System.out.println("GitHub test project edited2.");
+          System.out.println("GitHub test project edited again.");
       }
 }
